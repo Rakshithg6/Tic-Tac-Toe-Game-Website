@@ -11,3 +11,7 @@ This repository contains a fun Tic Tac Toe game that you can play in your web br
 
 You can try out the game live [here](file:///C:/Users/Rakshith/Desktop/Tic%20Tac%20Toe/game.html).
 
+## Contributing
+
+Feel free to contribute to make the game even better! Fork the repository, make your changes, and submit a pull request.
+
